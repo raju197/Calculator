@@ -1,5 +1,5 @@
-int sub(int a , int b){
+int subract(int a , int b){
 	
 	
-	return a- b;
+	return (a- b);
 }
